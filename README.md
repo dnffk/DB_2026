@@ -8,7 +8,7 @@ https://nano5.notion.site/DuckDB-350daf211d4280189a1ecaa5ca2da47b?source=copy_li
 
 ---
 
-# 🚀 db_2026 (Flet + DuckDB + uv)
+# 🚀 db_02_duckdb (Flet + DuckDB + uv)
 
 DuckDB를 사용하여 데이터를 처리하는 Flet 프로젝트
 
