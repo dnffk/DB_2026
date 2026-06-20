@@ -1,7 +1,7 @@
-element_id,element_name,element_image
-1,¹°,
-2,ºÒ,
-3,´ëÁö,
-4,¹Ù¶÷,
-5,ºû,
-6,¾îµÒ,
+ï»¿element_id,element_name,element_image
+1,ë¬¼,Element/type_water.png
+2,ë¶ˆ,Element/type_fire.png
+3,ëŒ€ì§€,Element/type_land.png
+4,ë°”ëžŒ,Element/type_wind.png
+5,ë¹›,Element/type_light.png
+6,ì–´ë‘ ,Element/type_dark.png
